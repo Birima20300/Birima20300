@@ -1,16 +1,22 @@
-## Hi there 👋
+# Bas Sit | Développeur Web 🇧🇯
 
-<!--
-**Birima20300/Birima20300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je conçois et développe des applications web en m'appuyant sur des projets concrets et une démarche d'amélioration continue.
 
-Here are some ideas to get you started:
+Mon objectif est de transformer des besoins réels en solutions numériques utiles, avec une attention particulière portée à la fonctionnalité, à l'expérience utilisateur et à la qualité du code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projets
+
+- **Xcoupon** — Plateforme de pronostics sportifs : https://xcoupon.onrender.com
+- **Even-Tik** — Plateforme de billetterie numérique : https://even-tik.onrender.com
+
+### Domaines de travail
+
+- Développement d'interfaces web
+- Fonctionnalités côté serveur et intégration d'API
+- Gestion des données avec PostgreSQL
+- Amélioration et évolution d'applications web
+
+### Contact
+
+- Email : 2abbirima@gmail.com
+- GitHub : https://github.com/Birima20300
